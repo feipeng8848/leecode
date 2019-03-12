@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include <malloc.h>
 int* plusOne(int* digits, int digitsSize, int* returnSize);
-void swap(int *p1, int *p2);
-
 int main()
 {
     int testArray[]={1,2,3,4};
